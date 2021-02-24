@@ -69,7 +69,7 @@ const answers = [
     '{userName}のいいところは社交性です。{userName}は誰とでも打ち解られることが出来ます。',
     '{userName}のいいところは度量の大きさです。{userName}は細かい事には動じません。',
     '{userName}のいいところは慎重さです。{userName}は細かいところまで考え抜いて行動します。',
-    '{userName}のいいところは人情の厚さです。{userName}は恩は決して忘れません。'
+    '{userName}のいいところは人情の厚さです。{userName}は恩は決して忘れません。',
     '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
 ];
 
